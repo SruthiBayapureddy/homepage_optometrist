@@ -1,0 +1,12 @@
+/home/ecegridfs/a/ee364ta/grading/Lab15/ee364a02
+
+------------------------------------------------------------------------------------
+FUNCTION                | DESCRIPTION         | COMMENTS                 | POINTS  
+------------------------------------------------------------------------------------
+fetch_images_file_list    File List             FAILED                     0/20    
+fetch_images_pfp          Find Profile Photo    FAILED                     0/20    
+fetch_images_tmp          tmp folder            Passed                     20/20   
+filename                  make_filename         FAILED                     0/40    
+------------------------------------------------------------------------------------
+
+Total Score = 20.0
